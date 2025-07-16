@@ -34,48 +34,60 @@ The dataset is originally provided as `pixar_dataset.xlsx` and was imported into
 
 ### 1. **💰 Financial Performance**
 > What are the top movies on ROI (Return on Investment)?
+
 ![alt text](Media/1.1.png)
 
 
 - Query
+
 ![alt text](Media/1.png)
 
 
 ### 2. **🏆 Award Analysis**
 > What are the top awards-winning movies?
+
 ![alt text](Media/2.2.png)
 
 
 - Query
+
 ![alt text](Media/2.png)
 ### 3. **🎭 Genre Profitability**
 > What are the five most profitable subgenres?
+
 ![alt text](Media/3.3.png)
 
 
 - Query
+
 ![alt text](Media/3.png)
 ### 4. **🎬 Director Impact**
 > What are the most profitable directors? and what are their average rotten tomatoes & IMDB score?
+
 ![alt text](Media/4.4.png)
 
 
 - Query
+
 ![alt text](Media/4.png)
 ### 5. **🎥 Franchise Comparison**
 > Compare the profit of the following film series: Toy Story, Cars, and
 Finding Nemo/Dory?
+
 ![alt text](Media/5.5.png)
 
 
 - Query
+
 ![alt text](Media/5.png)
 ### 6. **📊 Budget Category Analysis**
 > Categorize films into Low / Medium / High budget and analyze different metrics.
+
 ![alt text](Media/6.6.png)
 
 
 - Query
+
 ![alt text](Media/6.png)
 ---
 
